@@ -9,3 +9,4 @@ Bu proje, kullanıcı dostu bir web arayüzü oluşturmak için Bootstrap ve CSS
 - **Bootstrap Bileşenleri**: Butonlar, form elemanları ve navbar gibi Bootstrap bileşenleri kullanılmıştır.
 - **Özelleştirilmiş Stil**: CSS ile özel stiller eklenmiştir.
 
+Bu proje ilk css denemelerimdendir
